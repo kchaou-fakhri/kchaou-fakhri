@@ -18,4 +18,4 @@ Most of my activity goes to
 
 If you need super-nasty homebrew security, crypto or blockchain reach out to me for consulting: silur[at]cryptall[dot]co
 
-![https://github-readme-stats.vercel.app/api?username=silur](https://github-readme-stats.vercel.app/api?username=kchaou-fakhri&theme=merko)
+![https://github-readme-stats.vercel.app/api?username=silur](https://github-readme-stats.vercel.app/api?username=SassiBH&theme=merko)
