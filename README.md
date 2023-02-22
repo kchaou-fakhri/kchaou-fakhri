@@ -6,7 +6,7 @@ I'm also a cryptographer and a quantum-computing researcher at [Wigner Research 
 
 Most of my activity goes to 
 
-- privacy-enhancing tech :key:
+- Native Android :Mobile:
 
 - web security :earth_asia:
 
