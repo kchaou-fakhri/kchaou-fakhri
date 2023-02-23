@@ -7,7 +7,7 @@ I'm a android developer thats very passionate about solving complicated problems
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kchaou-fakhri&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-kchaou-fakhri.vercel.app/api/top-langs/?username=kchaou-fakhri&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="fakhri Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kchaou-fakhri&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
@@ -17,10 +17,10 @@ I'm a android developer thats very passionate about solving complicated problems
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-kchaou-fakhri.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-kchaou-fakhri.vercel.app/api/top-langs/?username=kchaou-fakhri&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="fakhri Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-kchaou-fakhri.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-kchaou-fakhri.vercel.app/api?username=kchaou-fakhri&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="fakhri Github stats" />
 </a>
 </div>
 
@@ -53,7 +53,7 @@ I'm a android developer thats very passionate about solving complicated problems
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/kchaou-fakhri#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/fakhri-kchaou-892914200#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 
