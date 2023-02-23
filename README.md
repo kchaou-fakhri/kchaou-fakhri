@@ -41,7 +41,7 @@ I'm a android developer thats very passionate about solving complicated problems
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fakhri_kchaou#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40fakhri_kchaou-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fakhri_kchaou#gh-dark-mode-only">
