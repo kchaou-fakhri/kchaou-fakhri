@@ -49,7 +49,6 @@ I'm a android developer thats very passionate about solving complicated problems
 <a href="https://www.linkedin.com/in/fakhri-kchaou-892914200#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
-
 </div>
 
 
