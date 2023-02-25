@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/kchaou-fakhri?label=Follow&style=social)](https://github.com/kchaou-fakhri)
 
-I'm a android developer thats very passionate about solving complicated problems and creating software solutions :robot:. I :android: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+I'm a android developer thats very passionate about solving complicated problems and creating software solutions :robot:. I :hurt: Open Source and therefore take great pleasure out of working on interesting opensource projects.
 
 <!-- Light Mode -->
 
